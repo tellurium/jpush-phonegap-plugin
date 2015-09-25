@@ -1,0 +1,10 @@
+{
+    "com.opentrans.plugin.jpush": {
+        "android": {
+            "app_package": "com.opentrans.plugin.demo.jpush"
+        },
+        "ios": {
+
+        }
+    }
+}

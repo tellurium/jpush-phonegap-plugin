@@ -1,0 +1,10 @@
+{
+    "path": "cordova",
+    "id": "com.opentrans.plugin.demo.jpush",
+    "name": "JpushTest",
+    "platformsSpec": [ "../../otms-cordova-project-template/android", "../../otms-cordova-project-template/ios" ],
+    "pluginsToAdd": [
+        "../../otms-cordova-jpush"
+    ],
+    "www_copy": "src/www/"
+}
